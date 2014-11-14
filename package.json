@@ -1,0 +1,37 @@
+{
+  "name": "kubis",
+  "version": "0.1.0",
+  "title": "cli interact",
+  "description": "A set of support modules to help you attend to your application.",
+  "keywords": [
+    "data types",
+    "json parse"
+  ],
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "homepage": "https://github.com/zhami/kubis",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhami/kubis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhami/kubis/issues"
+  },
+  "licenses": "MIT",
+  "author": {
+    "name": "Stuart Malin",
+    "url": "https://github.com/zhami",
+    "email": "stuart@EnvisixLabs.com"
+  },
+   "scripts": {},
+    "maintainers": [
+    {
+      "name": "Stuart Malin",
+      "email": "stuart@EnvisixLabs.com"
+    }
+  ],
+  "directories": {},
+  "dependencies": {}
+}
