@@ -17,6 +17,9 @@ function getModule (name) {
 	case 'jsonAide':
 		return require('./lib/jsonAide.js');
 		break;
+	case 'numbers':
+		return require('./lib/numbers.js');
+		break;
 	default:
 		return new Error('no such module:' + name);
 	}
