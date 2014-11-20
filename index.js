@@ -14,8 +14,8 @@ function getModule (name) {
 	case 'dataTypes':
 		return require('./lib/dataTypes.js');
 		break;
-	case 'ipAddr':
-		return require('./lib/ipAddr.js');
+	case 'ipAddress':
+		return require('./lib/ipAddress.js');
 		break;
 	case 'jsonAide':
 		return require('./lib/jsonAide.js');

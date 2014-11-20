@@ -1,6 +1,6 @@
 {
   "name": "kubis",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "title": "cli interact",
   "description": "A set of support modules to help you attend to your application.",
   "keywords": [
